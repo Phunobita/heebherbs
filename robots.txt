@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=*
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-admin/images/*
+Allow: /wp-content/uploads/
+Sitemap: https://heebherbs.com/sitemap_index.xml
