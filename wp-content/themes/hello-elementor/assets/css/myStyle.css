@@ -78,7 +78,7 @@ textarea:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #84BE38;
+  background-color: #84be38;
 }
 .get-breadcumb-content,
 .get-breadcumb-content a {
@@ -267,11 +267,9 @@ textarea:focus {
   opacity: 1 !important;
 }
 
-
 .product_cat-duoc-lieu #tab-description h2 {
   display: none;
 }
-
 
 .product_cat-duoc-lieu .related.products {
   display: none !important;
@@ -384,7 +382,7 @@ textarea:focus {
 }
 
 .product-feature-home-item p {
- margin-bottom: 0 !important;
+  margin-bottom: 0 !important;
 }
 
 .product-feature-home-item img {
@@ -663,12 +661,12 @@ div.is-ajax-search-result {
   padding: 60px 25px;
 }
 
-.contact-info-item p:last-child{
+.contact-info-item p:last-child {
   color: #808891 !important;
 }
 
-.contact-info-item p:last-child:hover{
-  color: #84be38!important;
+.contact-info-item p:last-child:hover {
+  color: #84be38 !important;
 }
 
 .contact-info-item p:first-child {
@@ -943,7 +941,6 @@ textarea {
   left: 67.3846% !important;
   top: 0 !important;
 }
-
 
 /* hide tab add information product */
 .additional_information_tab {
